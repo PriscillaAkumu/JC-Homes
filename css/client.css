@@ -1,0 +1,14 @@
+ .client{
+     font-size: 40px;
+    line-height: 60px;
+    text-transform: none;
+    font-weight: 700;
+     color: #151515; 
+     font-style: normal;
+
+}
+
+.team-classic-caption .jc-client {
+    text-transform:none;
+    color:#2EC5C7;
+}
