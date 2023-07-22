@@ -9,5 +9,6 @@
 }
 
 .team-classic-caption .jc-client {
-    text-transform: capitalize;
+    text-transform:none;
+    color:#2EC5C7;
 }
