@@ -5979,7 +5979,7 @@ html.tablet .ui-to-top {
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	font-weight: 500;
-	text-transform:capitalize;
+	text-transform:uppercase;
 	transition: .25s;
 }
 
